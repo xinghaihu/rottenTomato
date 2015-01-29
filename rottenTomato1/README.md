@@ -18,3 +18,4 @@
 
 
 ### GIF walkthrough of all required and optional stories
+![alt tag](https://github.com/xinghaihu/rottenTomato/blob/master/rottenTomato1/demo.gif)
